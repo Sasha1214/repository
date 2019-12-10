@@ -119,11 +119,10 @@ int main() {
 
 3.Запуск приложение в режиме отладки;
 
-![Рисунок номер9](https://github.com/Sasha1214/repository/blob/master/img/значение%20i%20на%205%20строкее.png?raw=true)
-
+![Рисунок номер9](https://github.com/Sasha1214/repository/blob/master/img/9%20значение%20на%205%20строке.PNG?raw=true)
  Рисунок номер 9. Значение i на 5 строке кода.
  
-  ![Рисунок номер](https://github.com/Sasha1214/repository/blob/master/img/значение%20i%20на%206%20строке.png?raw=true)
+  ![Рисунок номер](https://github.com/Sasha1214/repository/blob/master/img/9%20значение%20на%206%20строке.PNG?raw=true)
   
   Рисунок номер 9.1 Значение i на 6 строке кода.
   
